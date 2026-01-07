@@ -33,7 +33,7 @@ Mapty is a workout tracker application that allows users to log their running or
 - **External Libraries**: Learned how to read documentation and implement the **Leaflet** library to render maps and markers.
 - **LocalStorage API**: Storing complex objects (arrays of workouts) using `JSON.stringify()` and retrieving them with `JSON.parse()`.
 - **Project Architecture**: Planning the code structure (flowcharts) before writing the actual code.
-- 
+
 
 ---
 *This project is part of The Complete JavaScript Course by Jonas Schmedtmann.*
