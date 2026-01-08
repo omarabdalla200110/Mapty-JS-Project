@@ -6,7 +6,7 @@ Mapty is a workout tracker application that allows users to log their running or
 <img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/28d11ffb-6dd2-4539-bad9-4c9119db9248" />
 
 ## 🚀 Live Demo
-[View Live Site](https://omar14352465.github.io/Mapty-JS-Project/)
+[View Live Site](https://omarabdalla200110.github.io/Mapty-JS-Project/)
 
 ## 🌟 Key Features
 - **Geolocation Integration**: Automatically fetches the user's current position to center the map.
